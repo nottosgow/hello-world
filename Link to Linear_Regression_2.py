@@ -1,0 +1,1 @@
+/home/nottosgow/ML/Self_Practice/Linear_Regression_2.py
