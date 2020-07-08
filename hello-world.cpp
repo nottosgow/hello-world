@@ -1,10 +1,11 @@
 #include <iostream>
+using namespace std;
 
 int main() {
 	char name[20];
-	std::cout <<"Hello World!"<<std::endl;
-	std::cout <<"Enter name: ";
-	std::cin >> name;
-	std::cout <<"Hello "<<name<<std::endl;
+	cout <<"Hello World!"<<endl;
+	cout <<"Enter name: ";
+	cin >> name;
+	cout <<"Hello "<<name<<endl;
 	return 0;
 }
